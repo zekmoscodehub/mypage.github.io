@@ -1,0 +1,48 @@
+.logo{
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+.profile{
+ background: powderblue;
+ width: 500px;
+ height: 700px;
+ float:right;
+ text-align: center;
+}
+.profile-pic{
+    display:center;
+}
+.brand{
+    width:80px;
+    margin-left: 50px;
+}
+.pic-area{
+    display:flex;
+    margin-top:px;
+}
+.pic-one{
+    border-radius: 50%;
+    width:350px;
+    height: 400px;
+    position: relative;
+    background-color: #0dcaf0;
+    
+}
+
+img.pic-two{
+    border-radius: 50%;
+    width:350px;
+    height: 390px;
+    margin-left:250px;
+   position: absolute;
+   margin-top:-21px;
+   background-color: #0dcaf0;
+   background: transparent;
+}
+.pic{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px; 
+}
+
