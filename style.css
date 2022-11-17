@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box; 
-    z-index: 1000;
+    z-index:;
     font-family: poppins, cursive, sans-serif;
 }
 :root{
@@ -57,7 +57,7 @@ html{
 body{
     position: absolute;
     width: auto;
-    background:rgb(49, 49, 49);
+   
   
 }
 .nav-bar{
@@ -66,8 +66,7 @@ body{
     border-bottom: 2px solid rgb(231, 229, 228);
     margin-top: 3px;
     margin-right: 3px;
-    background-color: rgb(221, 244, 252);
-    width: 100vw auto;
+      width:auto;
        
 }
 
