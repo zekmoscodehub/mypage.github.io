@@ -267,5 +267,12 @@ margin: 3px 15px;
     float: left;
    
   }
-  
-  
+  .register{
+    margin-left: -110px;
+  }
+  .two{
+    align-items: start;
+    justify-content: center;
+    color:#fff;
+    float: ;
+   }
