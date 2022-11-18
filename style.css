@@ -2,7 +2,6 @@
     margin:0;
     padding:0;
     box-sizing: border-box; 
-    z-index:;
     font-family: poppins, cursive, sans-serif;
 }
 :root{
@@ -55,8 +54,8 @@ html{
     font-size: 62.5%;
 }
 body{
-    position: absolute;
-    width: auto;
+    position: relative;
+  
    
   
 }
@@ -66,7 +65,7 @@ body{
     border-bottom: 2px solid rgb(231, 229, 228);
     margin-top: 3px;
     margin-right: 3px;
-      width:auto;
+   
        
 }
 
@@ -90,8 +89,9 @@ body{
 .nav-links a, label{
     margin-left: 6px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 20px;
     padding:0.5rem; 
+    colo:#000;
     justify-content: center;
     text-align: center;
 }
@@ -168,8 +168,8 @@ body{
     
 }
 .profile-pic{
-    width: 430px;
-    height: 380px;
+    width: 460px;
+    height: 420px;
     background-color: antiquewhite;
     margin-top: 0.rem;
     margin-left:px;
