@@ -1,0 +1,20 @@
+{
+  "name": "zekmoscodehube",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "site",
+    "and",
+    "porfolio"
+  ],
+  "author": "zekmoscodehub",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
